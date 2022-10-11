@@ -1,0 +1,30 @@
+cm:- git init
+git configuration
+cm:- git remote add origin "<git url>"
+connect url
+cm:- git status
+check git status
+cm:- git add <file name>
+add git file or folder
+cm:- git add --all
+add all file
+cm:- git commit -m "adding akshay file"
+git add file and commit the msg
+cm:- git push origin master
+upload folder git
+cm:- git clone <git url>
+
+cm:- git diff
+git diff file diffrence
+cm:- git log
+Information file
+cm:- git checkout -b java
+created new branch
+cm:- git checkout main
+switch the branch 
+cm:- git push origin main --force
+add main branch files
+cm:- git branch 
+display current branch
+cm:- git merge <branch name enter>
+merge team1 to master
